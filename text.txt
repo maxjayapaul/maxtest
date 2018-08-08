@@ -1,1 +1,2 @@
 This is a test file 080818 12:58
+Bugfix 0001 line added 080818 1:02
